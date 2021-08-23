@@ -1,0 +1,3 @@
+# roboCookDen
+Old School Runescape cooking bot in Rogue's Den. Project was not fully finished due not needing it any longer. Original idea was to 1 tick karambwans on fire in Rogue's  Den.
+Simple bot that was made to 1t cook karambwans on the rogue's den infinite fire. Due to not needing this bot any longer though, I decided to never finish it. Would not necessarily be difficult to finish. Just need initial position which should be the first karambwan in inventory and create a consistent way to set your camera. From there, every tick you would need to move the mouse and click on the karambwans and fire. At the end, click bank, deposit all items, close bank with escape key (faster than finding coordinates to place mouse), and repeat previous loop of cooking karambwans.
