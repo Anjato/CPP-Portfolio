@@ -63,7 +63,7 @@ resPos:
 			{
 				Beep(600, 200);
 				system("cls");
-				goto capPressed;
+				goto delPressed;
 			}
 		}
 
@@ -77,11 +77,11 @@ resPos:
 
 		klique = false;
 
-		goto capPressed;
+		goto delPressed;
 	}
 
 
-capPressed:
+delPressed:
 
 	POINT p;
 	GetCursorPos(&p);
@@ -118,7 +118,7 @@ capPressed:
 		goto loopEnbld;
 	}
 	else
-		goto capPressed;
+		goto delPressed;
 
 
 	return 0;
