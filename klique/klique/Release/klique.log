@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  jKlique.cpp
+jKlique.cpp(56): warning C4102: 'jKlique': unreferenced label
+  Generating code
+  All 68 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  klique.vcxproj -> C:\Users\atolk\Documents\Visual Studio 2017\Projects\klique\Release\jKlique.exe
+  klique.vcxproj -> C:\Users\atolk\Documents\Visual Studio 2017\Projects\klique\Release\jKlique.pdb (Full PDB)

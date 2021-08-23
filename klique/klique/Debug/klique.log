@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (klique.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OSfletch.cpp
+  RS32tDiv.cpp
+  RS3clockwork.cpp
+  Generating Code...
+  klique.vcxproj -> C:\Users\atolk\Desktop\Projects\Visual Studio 2017\Projects\klique\Debug\jKlique.exe

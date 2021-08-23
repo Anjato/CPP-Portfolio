@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  roboCookDen.cpp
+C:\Users\atolk\Desktop\Projects\Visual Studio 2017\Projects\roboCookDen\roboCookDen\roboCookDen\roboCookDen.cpp(98,32): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\atolk\Desktop\Projects\Visual Studio 2017\Projects\roboCookDen\roboCookDen\roboCookDen\roboCookDen.cpp(98,32): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\atolk\Desktop\Projects\Visual Studio 2017\Projects\roboCookDen\roboCookDen\roboCookDen\roboCookDen.cpp(72,6): warning C4102: 'start': unreferenced label
+  roboCookDen.vcxproj -> C:\Users\atolk\Desktop\Projects\Visual Studio 2017\Projects\roboCookDen\roboCookDen\Debug\roboCookDen.exe

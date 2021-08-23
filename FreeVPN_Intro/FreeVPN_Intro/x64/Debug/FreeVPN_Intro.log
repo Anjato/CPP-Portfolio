@@ -1,0 +1,18 @@
+﻿  RunPE.cpp
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(26): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(26): warning C4302: '<function-style-cast>': truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(26): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'PIMAGE_NT_HEADERS' of greater size
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(56): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(56): warning C4302: '<function-style-cast>': truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(56): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'PIMAGE_SECTION_HEADER' of greater size
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(58): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(58): warning C4302: '<function-style-cast>': truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(58): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPVOID' of greater size
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(59): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(59): warning C4302: '<function-style-cast>': truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(59): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPVOID' of greater size
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(65): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(65): warning C4302: '<function-style-cast>': truncation from 'void *' to 'DWORD'
+c:\users\anjato\documents\visual studio 2017\projects\freevpn_intro\freevpn_intro\runpe.cpp(73): warning C4715: 'RunPortableExecutable': not all control paths return a value
+main.obj : error LNK2019: unresolved external symbol __imp_PlaySoundA referenced in function "int __cdecl VPN(void)" (?VPN@@YAHXZ)
+C:\Users\Anjato\Documents\Visual Studio 2017\Projects\FreeVPN_Intro\x64\Debug\FreeVPN_IntroLesson.exe : fatal error LNK1120: 1 unresolved externals

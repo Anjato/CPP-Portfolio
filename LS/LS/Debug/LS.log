@@ -1,0 +1,3 @@
+﻿  DbD.cpp
+C:\Users\atolk\Desktop\Projects\Visual Studio 2017\Projects\LS\LS\DbD.cpp(15,6): warning C4101: 'x': unreferenced local variable
+  LS.vcxproj -> C:\Users\atolk\Desktop\Projects\Visual Studio 2017\Projects\LS\Debug\LS.exe
