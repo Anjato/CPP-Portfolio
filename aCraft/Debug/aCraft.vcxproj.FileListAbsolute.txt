@@ -1,0 +1,2 @@
+C:\Users\atolk\source\repos\aCraft\Debug\aCraft.exe
+C:\Users\atolk\source\repos\aCraft\Debug\aCraft.pdb

@@ -1,0 +1,3 @@
+﻿  aCraft.cpp
+C:\Users\atolk\source\repos\aCraft\stdafx.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  aCraft.vcxproj -> C:\Users\atolk\source\repos\aCraft\Debug\aCraft.exe

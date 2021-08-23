@@ -14,5 +14,14 @@
 # roboCookDen
 Old School Runescape cooking bot in Rogue's Den. Project was not fully finished due not needing it any longer. Original idea was to 1 tick karambwans on fire in Rogue's  Den.
 
-#  roboCraft
+# roboCraft
 Old School Runescape crafting bot. 
+
+# aCon
+Runescape 3 bot to automate construction.
+
+# StdDeviationTest
+Test environment for standard deviation.
+
+# aCraft
+Runescape 3 bot to automate crafting.
