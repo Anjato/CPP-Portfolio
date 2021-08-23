@@ -33,7 +33,7 @@ int PUBG( void )
 		SetConsoleTextAttribute(hStdOut, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 
 		system("cls");
-		system("rasdial hideMeFreeVPN shoxxxy Runescape1");
+		system("rasdial hideMeFreeVPN USERNAMELOL PASSWORDKEK");
 		system("cls");
 
 		SetConsoleTextAttribute(hStdOut, FOREGROUND_GREEN | FOREGROUND_INTENSITY);
